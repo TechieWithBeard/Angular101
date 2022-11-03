@@ -1,1 +1,1 @@
-# My Awesome Greeter
+# Dynamic Loader service for scipt and css
